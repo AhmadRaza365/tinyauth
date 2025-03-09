@@ -19,3 +19,5 @@ secret_oauth.txt
 
 # apple stuff
 .DS_Store
+config.bat
+node_modules
