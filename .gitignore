@@ -21,7 +21,8 @@ secret_oauth.txt
 .DS_Store
 
 # env
-.env
 
 # tmp directory
 tmp
+config.bat
+node_modules
