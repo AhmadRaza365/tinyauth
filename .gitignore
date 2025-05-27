@@ -21,10 +21,11 @@ secret_oauth.txt
 .DS_Store
 
 # env
-.env
 
 # tmp directory
 tmp
 
 # version files
 internal/assets/version
+config.bat
+node_modules
